@@ -1,0 +1,5 @@
+Test Case 1 Output:
+14
+
+Test Case 2 Output:
+4629707726782768
